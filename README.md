@@ -1,4 +1,4 @@
-![Imaage](https://github.com/EliteDaMyth/EliteDaMyth/blob/master/image.png?raw=true)
+[![Imaage](https://github.com/EliteDaMyth/EliteDaMyth/blob/master/image.png?raw=true)](https://github.com/EliteDaMyth)
 
 
 Yea, The above image is quite cool :P
