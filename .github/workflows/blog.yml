@@ -14,4 +14,4 @@ jobs:
         with:
           feed-url: https://elitedamyth.xyz/feed.xml
           readme-section: feed
-          template: "> {{ description }}\n\n[Read more!]({{ url }})":  
+          template: "> {{ description }}\n\n[Read more!]({{ url }})"
