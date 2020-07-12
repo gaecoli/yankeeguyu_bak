@@ -12,3 +12,9 @@ I am currently working on [disease.sh](https://disease.sh) and [My Personal Blog
 - Discord: EliteDaMyth#0690
 - Reddit: EliteDaMyth
 - Twitter: EliteDaMyth
+
+### My Recent Blog Posts:
+
+<!--START_SECTION:feed-->
+
+<!--END_SECTION:feed-->
