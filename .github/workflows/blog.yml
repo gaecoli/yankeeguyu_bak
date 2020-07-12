@@ -1,6 +1,8 @@
 name: Update Recent Blog Posts
 
 on:
+  push:
+    branches: [master]
   schedule:
     - cron:  5 * * * *
 
