@@ -2,7 +2,7 @@ name: Update Recent Blog Posts
 
 on:
   schedule:
-    - cron:  30 * * * *
+    - cron:  5 * * * *
 
 jobs:
   update:
