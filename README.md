@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/EliteDaMyth/elitedamyth/blob/master/EliteDaMyth.png?raw=true" alt="EliteDaMyth"/>
+  <img src="https://github.com/EliteDaMyth/elitedamyth/blob/master/EliteDaMyth.gif?raw=true" alt="EliteDaMyth"/>
 </p>
 
 # Hi there 👋
