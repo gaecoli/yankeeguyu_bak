@@ -1,6 +1,6 @@
-![EliteDaMyth](https://github.com/EliteDaMyth/elitedamyth/blob/master/EliteDaMyth.png?raw=true)
+<div style="text-align:center"><img src="https://github.com/EliteDaMyth/elitedamyth/blob/master/EliteDaMyth.png?raw=true" /></div>
 
-### Hi there 👋
+## Hi there 👋
 
 <!--
 **EliteDaMyth/elitedamyth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
