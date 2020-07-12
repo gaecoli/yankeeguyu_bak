@@ -1,3 +1,5 @@
+![alt text](https://github.com/EliteDaMyth/EliteDaMyth/blob/master/EliteDaMyth.png?raw=true)
+
 ### Hi there 👋
 
 <!--
