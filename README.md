@@ -16,5 +16,5 @@ I am currently working on [disease.sh](https://disease.sh) and [My Personal Blog
 ### My Recent Blog Posts:
 
 <!--START_SECTION:feed-->
-
+...
 <!--END_SECTION:feed-->
