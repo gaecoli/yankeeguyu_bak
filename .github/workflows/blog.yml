@@ -4,7 +4,7 @@ on:
   push:
     branches: [master]
   schedule:
-    - cron:  5 * * * *
+    - cron:  30 * * * *
 
 jobs:
   update:
@@ -14,3 +14,4 @@ jobs:
         with:
           feed-url: https://elitedamyth.xyz/feed.xml
           readme-section: feed
+          template: "> {{ description }}\n\n[Read more!]({{ url }})":  
