@@ -1,4 +1,4 @@
-![alt text](https://github.com/EliteDaMyth/EliteDaMyth/blob/master/EliteDaMyth.png?raw=true)
+![EliteDaMyth](https://github.com/EliteDaMyth/elitedamyth/blob/master/EliteDaMyth.png?raw=true)
 
 ### Hi there 👋
 
