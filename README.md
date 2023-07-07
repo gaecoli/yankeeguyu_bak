@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently using `Python`, `JavaScript` and `React`
 - 🔭 I’m currently learning `Golang`, `Java` and `Scala`
-- 🚀 I am currently focusing on the development of visualization tools and big data computing
+- 🚀 I am currently focusing on the development of visualization tools and big data computing (Spark)
 
 ### Contact Me
 - Telegram: [Telegram](https://t.me/guyulee)
