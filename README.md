@@ -6,6 +6,10 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaecoli&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
 
 
+- 🌱 I’m currently using `Python`, `JavaScript` and `React`
+- 🔭 I’m currently learning `Golang`, `Java` and `Scala`
+- 🚀 I am currently focusing on the development of visualization tools and big data computing
+
 ### Contact Me
 - Telegram: [Telegram](https://t.me/guyulee)
 - Email: lee.gaecoli@gmail.com
