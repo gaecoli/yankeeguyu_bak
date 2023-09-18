@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently using `Python`, `JavaScript` and `React`
-- 🔭 I’m currently learning `Golang`, `Java` and `Scala`
+- 🔭 I’m currently learning `Golang`, `Java`, `Scala` and `Vue`
 - 🚀 I’m currently focusing on the development of visualization tools and big data computing `(Spark)`
 
 ### Contact Me
