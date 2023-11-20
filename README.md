@@ -11,5 +11,5 @@
 - 🚀 I’m currently focusing on the development of visualization tools and big data computing `(Spark)`
 
 ### Contact Me
-- Telegram: [Telegram](https://t.me/guyulee)
+- Telegram: [Telegram](https://t.me/peterguyu)
 - Email: lee.gaecoli@gmail.com
