@@ -6,8 +6,8 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaecoli&show_icons=true&layout=compact&theme=vue&hide_border=true&hide=html,css)
 
 
-- 🌱 I’m currently using `Python`, `JavaScript`, `Scala` and `React`
-- 🔭 I’m currently learning `Golang`, `Java` and `Vue`
+- 🌱 I’m currently using `Scala`, `Java` and `React`
+- 🔭 I’m currently learning `Vue`
 - 🚀 I’m currently focusing on the development of visualization tools and big data computing `(Spark)`
 
 ### Contact Me
